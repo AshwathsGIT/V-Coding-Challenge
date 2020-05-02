@@ -1,0 +1,12 @@
+{
+  "images" : [
+    {
+      "filename" : "baseline_credit_card_black_48pt_3x.png",
+      "idiom" : "universal"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
